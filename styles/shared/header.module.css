@@ -4,6 +4,7 @@
     position: fixed;
     background-color: rgba(245,245,245,0.4);
     box-shadow: -2px 2px 10px rgba(245,245,245,0.3);
+    z-index: 10;
 }
 
 .img {
@@ -21,6 +22,7 @@
     color: white;
     text-shadow: -2px 2px 15px rgba(10,10,200,0.8);
     transition: 0.4s;
+    font-weight: 200;
 }
 
 .cart_phrase a:hover {
