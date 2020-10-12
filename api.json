@@ -1,0 +1,47 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "photo": "http://lojasaraiva.vteximg.com.br/arquivos/ids/12106266/1002912384.jpg?v=637142237379070000",
+            "title": "O Festim Dos Corvos - As Crônicas de Gelo e Fogo - Livro Quatro - Edição Comemorativa",
+            "description": "AS CRÔNICAS DE GELO E FOGO Em O festim dos corvos, o quarto livro da aclamada série As crônicas de gelo e fogo, George R. R. Martin continua a narrativa das épicas aventuras nos Sete Reinos, onde muitos perigos e disputas ainda estão por acontecer.",
+            "price": 67.90
+        },
+        {
+            "id": 2,
+            "photo": "http://lojasaraiva.vteximg.com.br/arquivos/ids/295963/1003438758.jpg?v=636966202162230000",
+            "title": "Harry Potter e o Prisioneiro de Azkaban - Steelbook - 2 Discos - Blu-Ray",
+            "description": "Harry Potter And The Prisoner Of Azkaban",
+            "price": 29.90
+        },
+        {
+            "id": 3,
+            "photo": "http://lojasaraiva.vteximg.com.br/arquivos/ids/12563263/1009583479.jpg?v=637152394194200000",
+            "title": "Dungeons & Dragons - Monstros e Criaturas",
+            "description": "Dungeons & Dragons – Monstros e Criaturas adiciona uma camada divertida e imersiva às feras e aos monstros do sistema!",
+            "price": 59.90
+        },
+        {
+            "id": 4,
+            "photo": "http://lojasaraiva.vteximg.com.br/arquivos/ids/12105413/1007182452.jpg?v=637142234129570000",
+            "title": "O Código do Caçador De Recompensa - Star Wars",
+            "description": "As táticas e os segredos de Boba Fett O Código do Caçador de Recompensa é um guia escrito pelo lendário Boba Fett com as técnicas essenciais que todos os integrantes precisam dominar.",
+            "price": 29.90
+        },
+        {
+            "id": 5,
+            "photo": "http://lojasaraiva.vteximg.com.br/arquivos/ids/12108262/1003439778.jpg?v=637142245353630000",
+            "title": "Meu Amigãozão - Vol. 1 - 2ª Temporada - DVD",
+            "description": "Livro Meu amigãozão",
+            "price": 29.90
+        },
+        {
+            "id": 6,
+            "photo": "http://lojasaraiva.vteximg.com.br/arquivos/ids/12113750/1005702171.jpg?v=637142265539000000",
+            "title": "Han Solo - Uma História Star Wars - Blu-Ray 3D",
+            "description": "Solo: A Star Wars Story",
+            "price": 29.90
+        }
+    ]
+    
+}

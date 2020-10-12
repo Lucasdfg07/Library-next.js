@@ -1,0 +1,10 @@
+.box img {
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.box {
+    background-color: rgba(245,245,245,0.4);
+    padding: 20px;
+    margin-top: 10px;
+}
