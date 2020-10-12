@@ -1,3 +1,10 @@
+html {
+  background-image: url('../public/beach_wallpaper.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+
 html,
 body {
   padding: 0;
@@ -13,4 +20,12 @@ a {
 
 * {
   box-sizing: border-box;
+}
+
+.body {
+  position: absolute;
+}
+
+.home {
+  margin-top: 150px;
 }

@@ -1,0 +1,30 @@
+.header {
+    padding: 20px;
+    width: 100%;
+    position: fixed;
+    background-color: rgba(245,245,245,0.4);
+    box-shadow: -2px 2px 10px rgba(245,245,245,0.3);
+}
+
+.img {
+    height: 50px;
+}
+
+.cart_phrase {
+    float: right;
+    margin-top: 10px;
+    margin-right: 100px;
+    font-size: 1.2rem;
+}
+
+.cart_phrase a {
+    color: white;
+    text-shadow: -2px 2px 15px rgba(10,10,200,0.8);
+    transition: 0.4s;
+}
+
+.cart_phrase a:hover {
+    color: rgba(10,10,200,0.8);
+    text-shadow: -2px 2px 15px rgba(10,10,200,0.8);
+    text-decoration: none;
+}

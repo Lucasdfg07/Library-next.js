@@ -1,7 +1,7 @@
-import Home from '../../components/Home';
-
-export default function Index() {
+export default function HomePage() {
     return(
-        <Home />
+        <div className="home container">
+            <h3>Teste</h3>
+        </div>
     )
 }
