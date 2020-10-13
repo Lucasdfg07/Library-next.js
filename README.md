@@ -1,6 +1,3 @@
-![Logo of the project](https://github.com/Lucasdfg07/where-to-declare/blob/master/public/readme_images/logo2.png)
-
-
 ## Library Next JS
 
 It's an App to study some NextJS and Redux toolkit. Some tests, some practice, but beauty with some style :p
