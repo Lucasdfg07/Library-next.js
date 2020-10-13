@@ -1,11 +1,16 @@
-import React, {useEffect} from 'react';
+import React from 'react';
+import { useDispatch } from 'react-redux';
 
 import styles from '../../../styles/list_books.module.css';
 
+import * as CartActions from '../../../store/modules/cart/actions';
+
 export default function ListBooks(props) {
-    useEffect(() => {
-        console.log(props);
-    });
+    const dispatch = useDispatch();
+
+    function handleAddProduct(book) {
+        dispatch(CartActions.addToCart(book));
+    }
 
     return (
         <div className="col-md-4 text-center">
@@ -21,7 +26,10 @@ export default function ListBooks(props) {
 
                 <br />
 
-                <button className="btn btn-primary mt-2">Comprar</button>
+                <button className="btn btn-primary mt-2" 
+                        onClick={() => handleAddProduct(props.book)}>
+                    Comprar
+                </button>
             </div>
         </div>
     )

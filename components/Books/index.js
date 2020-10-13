@@ -16,7 +16,7 @@ export default function Books() {
     }
 
     return (
-        <div className="home container text-center">
+        <div className="container text-center">
             <h3>Encontre os livros mais Destacados</h3>
 
             <hr />
