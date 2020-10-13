@@ -12,12 +12,18 @@ export default function Header() {
         }, 0)
     );
 
+    const total = useSelector(state =>
+        state.cart.reduce((totalSum, product) => {
+          return totalSum + product.price * product.amount;
+        }, 0)
+    );
+
     return(
         <header className={styles.header}>
             <img src={BookImage} className={styles.img} />
             
             <div className={styles.cart_phrase}>
-                <Link href="/">Home</Link> | <Link href="/cart">Carrinho</Link> <strong>{cartSize}</strong> livros
+                <Link href="/">Home</Link> | <Link href="/cart">Carrinho</Link> <strong>{cartSize}</strong> livros | <strong>R$ { total.toFixed(3).slice(0,-1) }</strong>
             </div>
         </header>
     )

@@ -7,4 +7,11 @@
     background-color: rgba(245,245,245,0.4);
     padding: 20px;
     margin-top: 10px;
+    text-shadow: -2px 2px 20px rgba(10,10,240,0.9);
+    box-shadow: -2px 2px 20px rgba(245,245,245,0.6);
+    transition: 0.4s;
+}
+
+.box:hover {
+    margin-top: -5px;
 }

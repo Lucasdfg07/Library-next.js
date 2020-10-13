@@ -5,3 +5,9 @@
 .section {
     background-color: rgba(245,245,245,0.4);
 }
+
+.section button {
+    border: none;
+    margin: 0px 10px;
+    border-radius: 5px;
+}

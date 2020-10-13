@@ -99,15 +99,6 @@ export default function Cart() {
                         ))}
                     </tbody>
                 </table>
-            
-                <footer>
-                    <button type="button">Encomendar</button>
-            
-                    <div className="total">
-                        <span>Total</span> <br />
-                        <strong>R$ {total.toFixed(3).slice(0,-1)}</strong>
-                    </div>
-                </footer>
             </div>
         </Layout>
     )
