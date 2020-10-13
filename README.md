@@ -1,4 +1,24 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+![Logo of the project](https://github.com/Lucasdfg07/where-to-declare/blob/master/public/readme_images/logo2.png)
+
+
+## Library Next JS
+
+It's an App to study some NextJS and Redux toolkit. Some tests, some practice, but beauty with some style :p
+
+
+## Technology 
+
+Here are the technologies used in this project.
+
+* Next JS
+* Redux
+* Axios
+* Json Server
+
+## Services Used
+
+* Github
+
 
 ## Getting Started
 
@@ -14,17 +34,38 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+## How to use
+### Home Page. Here you will see some books.
+![Home Screen](https://github.com/Lucasdfg07/Library-next.js/blob/master/public/readme/home.png)
+![Home Screen](https://github.com/Lucasdfg07/Library-next.js/blob/master/public/readme/home2.png)
+![Home Screen](https://github.com/Lucasdfg07/Library-next.js/blob/master/public/readme/home3.png)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Cart Page. And you can see the cart items, using Redux.
+![Cart Screen](https://github.com/Lucasdfg07/Library-next.js/blob/master/public/readme/cart.png)  
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/import?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Features
+  - See some Books.
+  - Buy some books.
+  - Control de Items Cart.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Links
+  - Repository: https://github.com/Lucasdfg07/Library-next.js
+    - In case of sensitive bugs like security vulnerabilities, please contact
+      Lucassiqueirafernandes07@gmail.com directly instead of using issue tracker. 
+      We value your effort to improve the security and privacy of this project!
+
+  ## Versioning
+
+  1.0.0.0
+
+
+  ## Authors
+  
+  * **Lucas Siqueira Fernandes**: @Lucasdfg07 (https://github.com/Lucasdfg07)
+
+  Please follow github and join us!
+  Thanks to visiting me and good coding!
